@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-18)
+## Unreleased (2026-05-30)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`754c21e`](https://github.com/stdlib-js/stdlib/commit/754c21edddd352771af86a91feda14240baddc75) - **docs:** update related packages sections [(#12360)](https://github.com/stdlib-js/stdlib/pull/12360) _(by stdlib-bot, Athan Reines)_
 -   [`3a9811b`](https://github.com/stdlib-js/stdlib/commit/3a9811bb771976b46a1d19009a4ea81ad03a2450) - **bench:** refactor to use string interpolation in `@stdlib/random-strided` [(#11425)](https://github.com/stdlib-js/stdlib/pull/11425) _(by Karan Anand)_
 
 </details>
@@ -24,8 +25,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Karan Anand
 
 </section>

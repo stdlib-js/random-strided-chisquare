@@ -393,6 +393,7 @@ logEach( 'x1[%d] = %.2f; x2[%d] = %.2f', idx, x1, idx, x2 );
 
 ## See Also
 
+-   <span class="package-name">[`@stdlib/random-chisquare`][@stdlib/random/chisquare]</span><span class="delimiter">: </span><span class="description">generate pseudorandom numbers drawn from a chi-square distribution.</span>
 -   <span class="package-name">[`@stdlib/random-base/chisquare`][@stdlib/random/base/chisquare]</span><span class="delimiter">: </span><span class="description">Chi-square distributed pseudorandom numbers.</span>
 -   <span class="package-name">[`@stdlib/random-array/chisquare`][@stdlib/random/array/chisquare]</span><span class="delimiter">: </span><span class="description">create an array containing pseudorandom numbers drawn from a chi-square distribution.</span>
 
@@ -479,6 +480,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [@stdlib/array/uint32]: https://github.com/stdlib-js/array-uint32
 
 <!-- <related-links> -->
+
+[@stdlib/random/chisquare]: https://github.com/stdlib-js/random-chisquare
 
 [@stdlib/random/array/chisquare]: https://github.com/stdlib-js/random-array-chisquare
 
